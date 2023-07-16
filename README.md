@@ -1,4 +1,5 @@
-﻿# Space-Titanic
+![Source: mocah.org](3004108-4346x2927-sci-fi-spaceship.jpg)
+ # Space-Titanic
 ## Kaggle Competition
 
 Welcome to the year 2912. We've received a transmission from four lightyears away and things aren't looking good.
