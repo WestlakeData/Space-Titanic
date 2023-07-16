@@ -8,3 +8,6 @@ The Spaceship Titanic was an interstellar passenger liner launched a month ago. 
 While rounding Alpha Centauri en route to its first destination—the torrid 55 Cancri E—the unwary Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud. Sadly, it met a similar fate as its namesake from 1000 years before. Though the ship stayed intact, almost half of the passengers were transported to an alternate dimension!
 
 To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
+
+### Exploratory Data Analysis
+As stated in the prompt, some of the data is damaged. During EDA I examine the data structure and both transform the data to be more useful, but also impute data so that more of the data can be used for training the eventual model.  This preliminary work is contained in the [EDA Notebook](https://github.com/WestlakeData/Space-Titanic/blob/main/EDA.ipynb).
