@@ -15,3 +15,12 @@ As stated in the prompt, some of the data is damaged. During EDA I examine the d
 
 ### Logit Regression Model
 As a baseline model we generated a Logit model, this is contained in [Logistic Regression Notebook](https://github.com/WestlakeData/Space-Titanic/blob/main/Logit%20Modelling.ipynb).
+
+The basic performance metrics for this model were as follows.
+Accuracy =   0.77
+F-Score =    0.78
+Precision =  0.76
+Recall =     0.81
+Kappa =      0.55
+
+![Source: ROC_AUC Curve](logit_roc_auc.jpg)
