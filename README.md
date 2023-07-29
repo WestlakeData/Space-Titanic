@@ -12,3 +12,6 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 
 ### Exploratory Data Analysis
 As stated in the prompt, some of the data is damaged. During EDA I examine the data structure and both transform the data to be more useful, but also impute data so that more of the data can be used for training the eventual model.  This preliminary work is contained in the [EDA Notebook](https://github.com/WestlakeData/Space-Titanic/blob/main/EDA.ipynb).
+
+### Logit Regression Model
+As a baseline model we generated a Logit model, this is contained in [Logistic Regression Notebook](https://github.com/WestlakeData/Space-Titanic/blob/main/Logit%20Modelling.ipynb).
