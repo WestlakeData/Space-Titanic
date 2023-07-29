@@ -23,5 +23,5 @@ Precision =  0.76
 Recall =     0.81  
 Kappa =      0.55  
   
-![Source: ROC_AUC Curve](logit_roc_auc.jpg)  
+![Source: ROC_AUC Curve](logit_roc_auc.png)  
 
